@@ -1,0 +1,3 @@
+python testProcess.py
+
+pause
