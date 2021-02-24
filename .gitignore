@@ -1,5 +1,7 @@
 #Personal config for large dataset
-*twitter-roberta-base-*
+twitter-roberta-base-emoji/
+twitter-roberta-base-hate/
+twitter-roberta-base-sentiment/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
