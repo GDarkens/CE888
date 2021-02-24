@@ -1,7 +1,7 @@
 #Personal config for large dataset
-twitter-roberta-base-emoji/
-twitter-roberta-base-hate/
-twitter-roberta-base-sentiment/
+Assignments/Assignment1/tweeteval/cardiffnlp/twitter-roberta-base-emoji/
+Assignments/Assignment1/tweeteval/cardiffnlp/twitter-roberta-base-hate/
+Assignments/Assignment1/tweeteval/cardiffnlp/twitter-roberta-base-sentiment/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
