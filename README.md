@@ -1,12 +1,10 @@
 # CE888
 Data Science and Decision Making - CE888
 
-## The following must be cloned into CE888/Assignments/Assignment1/tweeteval/cardiffnlp/
+## Use of project
 
-git clone https://huggingface.co/cardiffnlp/twitter-roberta-base-emoji
+The project information can be found under the /Assignments/ folder.
+'init_testing_exploratory' is the initial testing and exploratory file from Assignment 1
+'darkensModel' contains raw python code (not Jupyter) that most work was done in
 
-git clone https://huggingface.co/cardiffnlp/twitter-roberta-base-hate
-
-git clone https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment
-
-The total size of these downloads is ~3GB
+There are three Jupyter files also for each of the tasks chosen.
